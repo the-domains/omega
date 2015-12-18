@@ -1,7 +1,7 @@
 name: 'Omega '
 favicon: null
-layout_spectrum: 0.22870262921787798
-typography_spectrum: 0.19104630406945944
+layout_spectrum: 0.9683
+typography_spectrum: 0.67382
 title: 'Omega Private Limited, Pakistan'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9384003509767354
-  lightness: 0.44137456943280995
-  saturation: 0.24158191960304976
-  rhythmicContrast: 0.4622971012722701
+    - '#0d0061'
+    - '#ffffff'
+    - '#f60000'
+    - '#fdbec0'
+    - '#39418b'
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
